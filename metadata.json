@@ -1,0 +1,6 @@
+{
+  "name": "Brew & Can",
+  "description": "Premium cold brew coffee in a can, brewed in the last 24 hours. A fresh take for Gen Z.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
